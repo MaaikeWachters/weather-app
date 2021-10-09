@@ -1,0 +1,64 @@
+body {
+  background: #f9f8eb !important;
+}
+h1 {
+  color: #415865;
+  font-family: "Handlee", cursive;
+  padding-top: 32px;
+}
+
+h2 {
+  color: #7a9eb1;
+}
+
+h4 {
+  padding-top: 24px;
+}
+
+h6 {
+  padding-top: 32px;
+}
+
+input {
+  margin: 4px;
+}
+
+p {
+  font-size: 14px;
+}
+
+.top {
+  padding: 32px 0;
+}
+
+.container {
+  font-family: "Raleway", sans-serif;
+  padding: 24px;
+}
+
+.card {
+  color: #f9f8eb;
+  margin: 0 auto;
+}
+
+.icon-today {
+  color: #dc3545;
+  font-size: 120px;
+}
+
+.icon-forecast {
+  font-size: 32px;
+}
+
+.card-forecast {
+  text-align: center;
+}
+
+.card-text {
+  padding-bottom: 12px;
+  line-height: 2.5;
+}
+
+.bottom {
+  padding-top: 32px;
+}
